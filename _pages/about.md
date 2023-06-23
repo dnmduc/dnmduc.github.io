@@ -5,13 +5,12 @@ permalink: /
 subtitle: <a href='https://uni.fpt.edu.vn/en-US/home'>FPTU University, Ho Chi Minh Campus</a>.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Computing Fundamental</p>
-    <p>FPTU University, Ho Chi Minh Campus, 71216</p>
-    <p>Your City, State 12345</p>
+    <p>FPTU University, Ho Chi Minh Campus 71216</p>    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

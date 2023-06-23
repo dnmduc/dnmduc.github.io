@@ -5,15 +5,18 @@
       value: Duc Ngoc Minh Dang
     - # name: Date of Birth
      # value: 14th March 1879
+    - name: Position
+    - value: Lecturer - Researcher
     - name: Languages
       value: English, Japanese, Korean
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Kyung Hee University, Korea
-      year: 2014
+      year: 2011 - 2014
       description:
         - Description 1.
         - Description 2.
@@ -23,7 +26,14 @@
             - Sub-description 2.
     - title: M.Eng
       institution: Ho Chi Minh City University of Technology, Vietnam
-      year: 2007
+      year: 2005 - 2007
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: B.Eng
+      institution: Ho Chi Minh City University of Technology, Vietnam
+      year: 2000 - 2005
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +41,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lecturer - Researcher
+      institution: FPT University, Vietnam
+      year: 2022 - present
       description:
         - Description 1.
         - Description 2.
