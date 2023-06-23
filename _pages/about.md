@@ -6,7 +6,7 @@ subtitle: <a href='https://uni.fpt.edu.vn/en-US/home'>FPTU University, Ho Chi Mi
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: Dr_DucDang.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Computing Fundamental</p>
