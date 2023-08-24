@@ -18,7 +18,7 @@
       institution: Kyung Hee University, Korea
       year: 2011 - 2014
       description:
-        - Advisor: Prof. Choong Seon Hong
+        - Advisor":" Prof. Choong Seon Hong
         - Networking Lab
         # - title: Description 3.
         #   contents:
@@ -106,10 +106,10 @@
     - year: 2005
       items: 
         - Gold medal award of Ho Chi Minh City University of Technology for Excellent Student
-    - year: 2006
+    - year: 2004
       items: 
         - Scholarship award of SAMSUNG VINA Electronics Company
-    - year: 2006
+    - year: 2001
       items: 
         - Scholarship award of the Vietnamese Government for Excellent Student
 
