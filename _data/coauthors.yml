@@ -1,34 +1,31 @@
 "Pham":
-  - firstname: ["Nhat Truong"]
+  - firstname: ["Nhat Truong","N.T. "]
     url: https://nhattruongpham.github.io/
 
 "Dang":
-  - firstname: ["Hanh Ngoc"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N. "]
+    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en&oi=ao
 
 "Ngo":
-  - firstname: ["Quynh T. "]
+  - firstname: ["Quynh T. ","Quynh"]
     url: https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en
 
 "Vo": 
-  - firstname: ["Phuong Luu"]
+  - firstname: ["Phuong Luu","Phuong L. ","P.L. "]
     url: https://scholar.google.com/citations?user=6DmQXO4AAAAJ&hl=en
 
-#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Nguyen":
+  - firstname: ["Sy Dzung","S.D. "]
+    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en&oi=ao
 
-# "Przibram":
-#   - firstname: ["Karl"]
-#     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Tran":
+  - firstname: ["Anh Khoa","A.K. "]
+    url: https://scholar.google.com/citations?user=8_-FWD4AAAAJ&hl=en
 
-# "Schrödinger":
-#   - firstname: ["Erwin"]
-#     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Nguyen":
+  - firstname: ["VanDung"]
+    url: https://scholar.google.com/citations?user=nx_qXNgAAAAJ&hl=en
 
-# "Lorentz":
-#   - firstname: ["Hendrik Antoon"]
-#     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-# "Planck":
-#   - firstname: ["Max"]
-#     url: https://en.wikipedia.org/wiki/Max_Planck
+"Hong":
+  - firstname: ["Choong Seon","C.S. "]
+    url: https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en
