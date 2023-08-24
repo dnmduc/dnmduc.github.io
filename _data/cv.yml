@@ -14,11 +14,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Kyung Hee University, Korea
       year: 2011 - 2014
       description:
-        - Advisor":" Prof. Choong Seon Hong
+        - Advisor ':' Prof. Choong Seon Hong
         - Networking Lab
         # - title: Description 3.
         #   contents:
@@ -28,7 +28,7 @@
       institution: Ho Chi Minh City University of Technology, Vietnam
       year: 2005 - 2007
       description:
-        - Advisor: Assoc. Prof. Pham Hong Lien
+        - "Advisor:" Assoc. Prof. Pham Hong Lien
       #   - Description 2.
 
     - title: B.Eng
