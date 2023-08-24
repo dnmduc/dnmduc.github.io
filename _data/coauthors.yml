@@ -1,25 +1,25 @@
 "Pham":
-  - firstname: ["Nhat Truong","N.T. "]
+  - firstname: ["Nhat Truong","N.T."]
     url: https://nhattruongpham.github.io/
 
 "Dang":
-  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N. "]
+  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N."]
     url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en&oi=ao
 
 "Ngo":
-  - firstname: ["Quynh T. ","Quynh"]
+  - firstname: ["Quynh T. ","Quynh","Quynh Tu"]
     url: https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en
 
 "Vo": 
-  - firstname: ["Phuong Luu","Phuong L. ","P.L. "]
+  - firstname: ["Phuong Luu","Phuong L.","P.L."]
     url: https://scholar.google.com/citations?user=6DmQXO4AAAAJ&hl=en
 
 "Nguyen":
-  - firstname: ["Sy Dzung","S.D. "]
+  - firstname: ["Sy Dzung","S.D."]
     url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en&oi=ao
 
 "Tran":
-  - firstname: ["Anh Khoa","A.K. "]
+  - firstname: ["Anh Khoa","A.K.","Khoa Anh"]
     url: https://scholar.google.com/citations?user=8_-FWD4AAAAJ&hl=en
 
 "Nguyen":
@@ -27,5 +27,5 @@
     url: https://scholar.google.com/citations?user=nx_qXNgAAAAJ&hl=en
 
 "Hong":
-  - firstname: ["Choong Seon","C.S. "]
+  - firstname: ["Choong Seon","C.S."]
     url: https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en
