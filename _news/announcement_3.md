@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[FPT Edu Research Festival 2023 recap] (https://www.facebook.com/fptedu.resfes)
+[FPT Edu Research Festival 2023 recap](https://www.facebook.com/fptedu.resfes)

@@ -2,17 +2,19 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses
 nav: true
 nav_order: 2
 ---
 
-#FPT University:  
+# FPT University:  
+
     - Programming Fundamentals  
     - Internet of Things  
     - Introduction to Computer Science  
 
-#Ton Duc Thang University  
+# Ton Duc Thang University  
+
     - Electronics Circuit Design 
     - Digital System Design       
     - Signals and Systems  
