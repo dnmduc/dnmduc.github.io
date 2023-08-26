@@ -5,8 +5,8 @@
       value: Duc Ngoc Minh Dang
     - # name: Date of Birth
      # value: 14th March 1879
-    - name: Position
-    - value: Lecturer - Researcher
+    - name: Current position
+      value: Lecturer - Researcher
     - name: Languages
       value: English, Japanese, Korean
 
