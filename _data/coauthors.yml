@@ -1,14 +1,14 @@
 "Dang":
   - firstname: ["Duc Ngoc Minh","D.N.M.","Ngoc Minh Duc","D.N. Minh","D.N. Minh","Duc N. M. "]
-    url: https://nhattruongpham.github.io/
+    url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
 
 "Pham":
   - firstname: ["Nhat Truong","N.T."]
     url: https://nhattruongpham.github.io/
 
 "Dang":
-  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N."]
-    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en&oi=ao
+  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N.","H N "]
+    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en
 
 "Ngo":
   - firstname: ["Quynh T. ","Quynh","Quynh Tu"]
@@ -20,7 +20,7 @@
 
 "Nguyen":
   - firstname: ["Sy Dzung","S.D."]
-    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en&oi=ao
+    url: https://scholar.google.com/citations?user=XFUxOkoAAAAJ&hl=en&
 
 "Tran":
   - firstname: ["Anh Khoa","A.K.","Khoa Anh"]
