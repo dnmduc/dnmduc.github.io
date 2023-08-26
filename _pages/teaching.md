@@ -7,13 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-# FPT University:  
+### FPT University:  
 
     - Programming Fundamentals  
     - Internet of Things  
     - Introduction to Computer Science  
 
-# Ton Duc Thang University  
+### Ton Duc Thang University  
 
     - Electronics Circuit Design 
     - Digital System Design       
