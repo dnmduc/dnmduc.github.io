@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Computing Fundamental</p>
-    <p>FPTU University, Ho Chi Minh Campus 71216</p>    
+    <p>FPT University, Ho Chi Minh Campus 71216</p>    
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
