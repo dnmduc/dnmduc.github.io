@@ -15,6 +15,7 @@ nav_order: 2
 
 ### Ton Duc Thang University  
 
+    - Engineering Analysis
     - Electronics Circuit Design 
     - Digital System Design       
     - Signals and Systems  
@@ -22,7 +23,8 @@ nav_order: 2
     - Wireless Networks  
     - Advanced Digital Signal Processing  
 
-### Supervisor Master student
+### Supervisor
+Master students:
 
     Bui Huu Hiep, "**Design a spatial multi-channel MAC protocol for IEEE 802.11ah**", Ton Duc Thang University, 2023
     Nguyen Tan Long, "**Priority-based uplink RAW slot utilization for uplink performance enhancement in IEEE 802.11ah networks**", Ton Duc Thang University, 2023
