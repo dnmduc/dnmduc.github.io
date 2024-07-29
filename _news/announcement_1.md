@@ -6,9 +6,5 @@ inline: true
 related_posts: false
 ---
 
-<!-- 04 papers are submitted in 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea.  
-
-- Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, *“Deep Learning-Based Automated Cashier System for Bakeries”*, [9th International Conference on Intelligent Information Technology (ICIIT 2024)](http://www.iciit.org/), Feb 23-25, 2024  
-- Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le, Duc Ngoc Minh Dang, *“Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”*, [9th International Conference on Intelligent Information Technology (ICIIT 2024)](http://www.iciit.org/), Feb 23-25, 2024  
-- Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran and Duc Ngoc Minh Dang, *“Vietnamese Traffic Sign Recognition Using Deep Learning”*, [9th International Conference on Intelligent Information Technology (ICIIT 2024)](http://www.iciit.org/), Feb 23-25, 2024  
-- Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu and Duc Ngoc Minh Dang *“Deep Learning Based Attendance Check System At FPT University”*, [9th International Conference on Intelligent Information Technology (ICIIT 2024)](http://www.iciit.org/), Feb 23-25, 2024   -->
+01 papers are submitted in 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea.  
+- Nhut Minh Nguyen, Thanh Trung Nguyen, Hua Hiep Nguyen, Phuong-Nam Tran, and Duc Ngoc Minh Dang, *"Voice-Based Age and Gender Recognition: A Comparative Study of LSTM, RezoNet and Hybrid CNNs-BiLSTM Architecture"*, The 15th International Conference on ICT Convergence [(ICTC 2024)](https://ictc.org/), Jeju, Korea
