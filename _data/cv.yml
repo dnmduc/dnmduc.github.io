@@ -18,7 +18,7 @@
       institution: Kyung Hee University, Korea
       year: 2011 - 2014
       description:
-        - Advisor Prof. Choong Seon Hong
+        - Advisor: Prof. Choong Seon Hong
         - <a href="http://networking.khu.ac.kr"> Networking Lab </a>
         # - title: Description 3.
         #   contents:
@@ -28,14 +28,14 @@
       institution: Ho Chi Minh City University of Technology, Vietnam
       year: 2005 - 2007
       description:
-        - Advisor Assoc. Prof. Pham Hong Lien
+        - Advisor: Assoc. Prof. Pham Hong Lien
       #   - Description 2.
 
     - title: B.Eng
       institution: Ho Chi Minh City University of Technology, Vietnam
       year: 2000 - 2005
       description:
-        - Advisor Assoc. Prof. Pham Hong Lien
+        - Advisor: Assoc. Prof. Pham Hong Lien
         # - Description 2.
 
 - title: Experience
