@@ -149,7 +149,19 @@
         <div class="author">
         
 
-        Eui-Nam Huh Phuong-Nam Tran, and <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ&amp;hl=en" rel="external nofollow noopener" target="_blank">Choong Seon Hong</a>
+        Phuong-Nam Tran, Duc Ngoc Minh Dang, Eui-Nam Huh, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Choong Seon Hong' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -349,7 +361,7 @@
         <div class="author">
         
 
-        Phuong-Nam Tran Duc Tai Phan, and Duc Ngoc Minh Dang</div>
+        Duc Tai Phan, Phuong-Nam Tran, and Duc Ngoc Minh Dang</div>
 
         <!-- Journal/Book title and date -->
         
