@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /tutorial/
-title: Research Hub: Tools and Resources for Academic Success
+permalink: /research_hub/
+title: Research Hub - Tools and Resources for Academic Success
 description: Tools and Resources for Academic Success
 nav: true
 nav_order: 7
