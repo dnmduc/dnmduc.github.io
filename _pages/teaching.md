@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses
+description: Teaching - Training
 nav: true
 nav_order: 2
 ---
@@ -19,8 +19,8 @@ nav_order: 2
   * Digital System Design       
   * Signals and Systems  
   * Digital Signal Processing  
-  * Wireless Networks  
-  * Advanced Digital Signal Processing  
+  * Wireless Networks (Graduate level) 
+  * Advanced Digital Signal Processing (Graduate level) 
 
 ### Supervisor
 Master students:
@@ -35,6 +35,8 @@ Master students:
 * Tran Khanh Duong, "**Enhancing the reliability of broadcasting safety message in VANETs**", Ton Duc Thang University, 2020 
 * [Ngo Tu Quynh](https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en), "**A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks**", Ho Chi Minh City University of Science, 2016 
 
+
+### Research Hub: [Tools and Resources for Academic Success](/_pages/tutorial.md)
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
