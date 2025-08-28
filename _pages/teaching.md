@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+# Teaching and Supervision
+
+## Courses Taught
 ### FPT University
 
  * Programming Fundamentals  
@@ -22,8 +25,10 @@ nav_order: 2
   * Wireless Networks (Graduate level) 
   * Advanced Digital Signal Processing (Graduate level) 
 
-### Supervisor
-Master students:
+
+
+## Graduate Student Supervision
+### Master’s Students
 
 * Le Hoang Hiep, "**Real-Time Abnormal Object Detection in Surveillance Cameras**", FPT University, 2025
 * Nguyen Cuong Truc, "**Extraction and Storage of Information from Value-Added Tax Invoices**", FPT University, 2025
@@ -36,7 +41,7 @@ Master students:
 * [Ngo Tu Quynh](https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en), "**A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks**", Ho Chi Minh City University of Science, 2016 
 
 
-### Research Hub: [Tools and Resources for Academic Success](https://dnmduc.github.io/tutorial)
+## Research Hub: [Tools and Resources for Academic Success](https://dnmduc.github.io/research_hub)
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->

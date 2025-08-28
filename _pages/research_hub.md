@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /research_hub/
-title: Research Hub - Tools and Resources for Academic Success
+title: Research Hub
 description: Tools and Resources for Academic Success
-nav: true
+nav: false
 nav_order: 7
 ---
+
 ## Create Academic Profiles
 - **ORCID**: Establish a unique researcher identifier to track your publications and ensure proper attribution across platforms. [Visit ORCID](https://orcid.org/)
 - **ResearchGate**: Build a professional network, share your research, and connect with peers in your field. [Join ResearchGate](https://www.researchgate.net/)
@@ -16,7 +17,9 @@ nav_order: 7
 
 ## Research Paper Presentation
 ### Paper Structure
-Follow best practices for structuring your research paper to ensure clarity and professionalism. [IEEE Paper Structure Guide](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/)
+- **IEEE**: Follow best practices for structuring your research paper to ensure clarity and professionalism. [IEEE Paper Structure Guide](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/)
+- **Elsevier**: Learn how to structure your manuscript for Elsevier journals, including key sections like abstract, introduction, and results. [Elsevier Manuscript Guidelines](https://www.elsevier.com/en-in/authors/tools-and-resources/preparing-your-paper)
+- **Springer**: Understand the recommended structure for Springer journal articles to meet submission standards. [Springer Author Guidelines](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript)
 
 ### Editor Tool
 - **Overleaf**: Collaborate seamlessly on LaTeX documents with real-time editing and version control for research papers. [Start a Project on Overleaf](https://www.overleaf.com/project)
@@ -29,6 +32,9 @@ Follow best practices for structuring your research paper to ensure clarity and 
 
 ## Reference Management
 - **Mendeley**: Organize, annotate, and cite references efficiently with this powerful reference management tool. [Mendeley Reference Manager](https://www.mendeley.com/reference-manager/)
+- **Zotero**: A free, open-source tool for collecting, organizing, and citing research sources, with robust browser integration. [Visit Zotero](https://www.zotero.org/)
+- **EndNote**: Manage references and create bibliographies with advanced features for large research projects. [Explore EndNote](https://endnote.com/)
+- **RefWorks**: A web-based reference manager for organizing citations and generating bibliographies, ideal for collaborative research. [Visit RefWorks](https://www.refworks.com/)
 
 ## Research Databases
 - **Scopus**: Access a comprehensive database of abstracts and citations across various disciplines. [Explore Scopus](https://www.scopus.com/)
