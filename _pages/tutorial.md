@@ -4,7 +4,7 @@ permalink: /tutorial/
 title: Research Hub: Tools and Resources for Academic Success
 description: Tools and Resources for Academic Success
 nav: true
-nav_order: 3
+nav_order: 7
 ---
 ## Create Academic Profiles
 - **ORCID**: Establish a unique researcher identifier to track your publications and ensure proper attribution across platforms. [Visit ORCID](https://orcid.org/)
