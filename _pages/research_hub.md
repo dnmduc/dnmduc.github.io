@@ -9,16 +9,16 @@ nav_order: 7
 
 ## Create Academic Profiles
 - **ORCID**: Establish a unique researcher identifier to track your publications and ensure proper attribution across platforms. [Visit ORCID](https://orcid.org/)
+- **Scopus**: Create a Scopus Author Profile to track your publications, citations, and h-index in this comprehensive database. [Register for Scopus](https://www.scopus.com/signin.uri)
+- **Web of Science**: Set up a Researcher Profile to monitor your publications and citation metrics across Web of Science databases. [Create Web of Science Profile](https://access.clarivate.com/register)
 - **ResearchGate**: Build a professional network, share your research, and connect with peers in your field. [Join ResearchGate](https://www.researchgate.net/)
 - **Google Scholar**: Create a profile to showcase your publications, track citations, and monitor your research impact. [Create Google Scholar Profile](https://scholar.google.com/schhp?hl=en)
 - **Google Scholar Alerts**: Set up customized alerts to receive notifications about new publications relevant to your research interests. [Set Up Alerts](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en)
-- **Scopus**: Create a Scopus Author Profile to track your publications, citations, and h-index in this comprehensive database. [Register for Scopus](https://www.scopus.com/authid/register.uri)
-- **Web of Science**: Set up a Researcher Profile to monitor your publications and citation metrics across Web of Science databases. [Create Web of Science Profile](https://www.webofscience.com/wos/author/register)
 
 ## Research Paper Presentation
 ### Paper Structure
 - **IEEE**: Follow best practices for structuring your research paper to ensure clarity and professionalism. [IEEE Paper Structure Guide](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/)
-- **Elsevier**: Learn how to structure your manuscript for Elsevier journals, including key sections like abstract, introduction, and results. [Elsevier Manuscript Guidelines](https://www.elsevier.com/en-in/authors/tools-and-resources/preparing-your-paper)
+- **Elsevier**: Learn how to structure your manuscript for Elsevier journals, including key sections like abstract, introduction, and results. [Elsevier Manuscript Guidelines](https://www.elsevier.com/subject/next/guide-for-authors)
 - **Springer**: Understand the recommended structure for Springer journal articles to meet submission standards. [Springer Author Guidelines](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript)
 
 ### Editor Tool
