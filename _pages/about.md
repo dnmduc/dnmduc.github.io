@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://uni.fpt.edu.vn/en-US/home'>FPT University, Ho Chi Minh Campus</a>.
+subtitle: Associate Professor, <a href='https://uni.fpt.edu.vn/en-US/home'>FPT University, Ho Chi Minh Campus</a>.
 
 profile:
   align: center
