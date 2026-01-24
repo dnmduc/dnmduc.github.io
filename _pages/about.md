@@ -9,8 +9,8 @@ profile:
   image: Dr_DucDang.jpg
   image_circular: false # crops the image to make it circular
   address:
-    <p>AiTA Lab</p>
-    <p>Department of Computing Fundamentals</p>
+    <p>[AiTA Lab](https://aita-lab.github.io/),</p>
+    <p>Department of Computing Fundamentals,</p>
     <p>FPT University, Ho Chi Minh Campus 71216</p>    
 
 news: true  # includes a list of news items
@@ -36,4 +36,4 @@ I received the B.Eng. and M.Eng. degrees in Electronics and Telecommunications E
 
 From 2005 to 2008, I worked as a Senior Telecom Engineer and Team Leader at TMA Solutions in Vietnam. From 2008 to 2011, I served as Head of the Electronics and Telecommunications Engineering Department and Laboratory Head at [Ton Duc Thang University, Vietnam](https://tdtu.edu.vn/). From 2011 to 2014, I served as a Research Assistant and Postdoctoral Researcher at Kyung Hee University, Korea. From 2015 to 2017, I served as Head of the Electronics–Telecommunications Department at the Faculty of Electrical and Electronics Engineering, Ton Duc Thang University. From 2017 to 2022, I served as Vice Dean of the School of Graduate Studies at the same university.
 
-Currently, I am an Associate Professor at [FPT University](https://daihoc.fpt.edu.vn/en/), Ho Chi Minh City, Vietnam, and the Director of the [AiTA Lab](https://aita-lab.github.io/), where I lead research in artificial intelligence, telecommunications, and advanced technologies.
+Currently, I am an Associate Professor and Dean of the Faculty of Information Technology at [FPT University](https://daihoc.fpt.edu.vn/en/), Ho Chi Minh City, Vietnam, where I also serve as Director the Director of the [AiTA Lab](https://aita-lab.github.io/), leading research in artificial intelligence, telecommunications, and advanced technologies.
