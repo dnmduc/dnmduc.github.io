@@ -1,11 +1,13 @@
 ---
 layout: post
 title: New papers
-date: 2024-10-01 15:59:00-0400
+date: 2026-02-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper has been accepted for publication in IEEE Access:
+Our paper from [**AiTA Lab**](https://aita-lab.github.io/) has been accepted for publication in EAI Endorsed Transactions on Industrial Networks and Intelligent Systems:
 
-Vo Phuc Tinh, Hoang Hai Son, **Duc Ngoc Minh Dang**, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients](https://ieeexplore.ieee.org/document/10706851), IEEE Access, 2025
+Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, **Duc Ngoc Minh Dang**,
+“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”
+EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, 2025.

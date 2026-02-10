@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address:
     <p>[AiTA Lab](https://aita-lab.github.io/),</p>
-    <p>Department of Computing Fundamentals,</p>
-    <p>FPT University, Ho Chi Minh Campus 71216</p>    
+    <p>Faculty of Information Technology,</p>
+    <p>FPT University, Ho Chi Minh Campus, 71320</p>    
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
