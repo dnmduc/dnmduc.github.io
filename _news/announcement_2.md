@@ -9,5 +9,5 @@ related_posts: false
 Our paper from [**AiTA Lab**](https://aita-lab.github.io/) has been accepted for publication in EAI Endorsed Transactions on Industrial Networks and Intelligent Systems:
 
 Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, **Duc Ngoc Minh Dang**,
-“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”
+[“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”](https://doi.org/10.4108/eetinis.131.10903)
 EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, 2025.
