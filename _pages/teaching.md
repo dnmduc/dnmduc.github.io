@@ -15,6 +15,7 @@ nav_order: 2
  * Programming Fundamentals  
  * Internet of Things  
  * Introduction to Computer Science   
+ * Digital Circuits 
  * Digital Signal and Image Processing (Graduate level) 
 
 ### Ton Duc Thang University  
